@@ -1,0 +1,1 @@
+{"version":3,"sources":["work_app/db.cljs"],"mappings":";AAGA,yBAAA,2CAAA,qDAAA,zHAAKA","names":["work-app.db/default-db"],"sourcesContent":[";; (c) David F Stearns 2023\n(ns work-app.db)\n\n(def default-db\n  {:name \"re-rrame\"})"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["work_app/macs.cljs"],"mappings":"","names":[],"sourcesContent":[";; (c) David F Stearns 2023\n(ns work-app.macs\n  (:require-macros [work-app.macs]))\n\n;; (defn schema-update [db name f & args]\n;;   (apply (partial update-in db (path name) f) args))"]}

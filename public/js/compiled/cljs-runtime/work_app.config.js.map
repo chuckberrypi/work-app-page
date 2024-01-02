@@ -1,0 +1,1 @@
+{"version":3,"sources":["work_app/config.cljs"],"mappings":";AAGA,AAAKA,+BACMC","names":["work-app.config/debug?","js/goog.DEBUG"],"sourcesContent":[";; (c) David F Stearns 2023\n(ns work-app.config)\n\n(def debug?\n  ^boolean goog.DEBUG)"]}
